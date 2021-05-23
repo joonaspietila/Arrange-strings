@@ -1,0 +1,12 @@
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Joonas\source\repos\Testing\Testing2\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Joonas\source\repos\Testing\Testing2\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
